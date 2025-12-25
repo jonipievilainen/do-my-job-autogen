@@ -39,3 +39,4 @@ def test_table_access():
 
 if __name__ == "__main__":
     test_table_access()
+
