@@ -1,0 +1,6 @@
+autogen
+pyautogen
+chainlit
+psycopg2-binary
+openai
+typing-extensions
